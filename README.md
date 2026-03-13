@@ -75,3 +75,6 @@ In addition to being a responsive web application, Nexora will also be compiled 
 - Review and merge incoming pull requests.
 - Collect screenshots of app usage from 10–50 users.
 - Finalize README, documentation, and submit project deliverables.
+
+### Deployment Link
+  https://s84-mayank-capstone-nexora.vercel.app
